@@ -1,0 +1,34 @@
+html, body {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	overflow-y: hidden;
+	overflow-x: hidden;
+}
+
+#content {
+	width: 100%;
+	height: 100%;
+	position: relative;
+	background-color:grey;
+}
+
+iframe {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	border: none;
+	display:block;
+}
+
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+	text-align:center;
+}
