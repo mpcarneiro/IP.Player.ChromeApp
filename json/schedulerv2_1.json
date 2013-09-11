@@ -1,0 +1,79 @@
+{
+  "schedule": {
+    "id": "416a18d6-7e42-4f8a-ac24-e902abe76f39",
+    "name": "DSIschedule",
+    "updatedOn": "2012-11-06T16:34:41.000Z",
+    "left": "0.0",
+    "top": "0.0",
+    "width": "1.0",
+    "height": "1.0",
+    "regions": [
+      {
+        "layout": "content1",
+        "left": "0",
+        "top": "0",
+        "width": "0.5",
+        "height": "1.0",
+        "seq": {
+          "repeatCount": "indefinite",
+          "ref": [
+            {
+              "src": "http://193.137.8.82/iframe.html",
+              "type": "text/html",
+              "dur": "20"
+            },
+            {
+              "src": "http://www.ojogo.pt",
+              "type": "text/html",
+              "dur": "20"
+            }
+          ]
+        }
+      },
+      {
+        "layout": "content2",
+        "left": "0.5",
+        "top": "0",
+        "width": "0.5",
+        "height": "0.5",
+        "seq": {
+          "repeatCount": "indefinite",
+          "ref": [
+            {
+              "src": "http://www.rr.pt",
+              "type": "text/html",
+              "dur": "20"
+            },
+            {
+              "src": "http://www.clix.pt",
+              "type": "text/html",
+              "dur": "20"
+            }
+          ]
+        }
+      },
+      {
+        "layout": "content3",
+        "left": "0.5",
+        "top": "0.5",
+        "width": "0.5",
+        "height": "0.5",
+        "seq": {
+          "repeatCount": "indefinite",
+          "ref": [
+            {
+              "src": "http://www.uminho.pt",
+              "type": "text/html",
+              "dur": "20"
+            },
+            {
+              "src": "http://www.sapo.pt",
+              "type": "text/html",
+              "dur": "20"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

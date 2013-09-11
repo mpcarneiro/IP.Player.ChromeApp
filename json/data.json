@@ -1,0 +1,27 @@
+[
+        {
+            "url":"http://www.cagp-acpdp.org/uploads/pdnet_cga.jpg",
+            "mediaType":"image/jpeg",
+            "duration":5
+        },
+        {
+            "url":"http://www.wallpaper-valley.com/animal/animal_101.jpg",
+            "mediaType":"image/jpeg",
+            "duration":5
+        },
+        {
+            "url":"http://osprofanos.com/wp-content/uploads/2010/10/google.jpg",
+            "mediaType":"image/jpeg",
+            "duration":5
+        },
+        {
+            "url":"http://www.instantplaces.org/",
+            "mediaType":"text/html",
+            "duration":10
+        },
+        {
+            "url":"http://video-js.zencoder.com/oceans-clip.mp4",
+            "mediaType":"video/mp4",
+            "duration":30
+        }
+]
