@@ -1,0 +1,24 @@
+{
+  // Required
+  "name": "InstantPlaces Player",
+  "version": "1.0",
+  "manifest_version": 2,
+  
+  // Recommended
+  "description": "InstantPlaces player",
+  "icons": { "16": "iplogo16.png", "128": "iplogo128.png" },
+  // "default_locale": "en",
+  
+  // Pick one (or none) OF browser_action, page_action, theme, app 
+  
+  "app": {
+    "background": {
+      "scripts": [ "background.js", "js/jquery.min.js", "js/uuid.js", "js/jschannel.js", "js/appv3.js", "js/appv5.js" ]
+    }
+  },
+  
+  "minimum_chrome_version": "23",
+  
+  "permissions": [ "fullscreen", "webview", "storage", "unlimitedStorage", "experimental" ]
+  
+}
